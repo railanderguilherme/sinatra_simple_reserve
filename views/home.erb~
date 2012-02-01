@@ -1,0 +1,6 @@
+<h1>Simple Reverse</h1>
+<p> This is a sinatra application that requests a string and returns reverse.</p>
+<form action="/display" method="post" accept-charset="utf-8">
+<input type="text" text="post[texto]" value=" Write here..." id ="texto" /><br />
+<input type="submit" value=" Reverse ">
+</form>
