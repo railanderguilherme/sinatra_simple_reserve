@@ -1,3 +1,2 @@
-require "reverse"
+require "./reverse" 
 run Sinatra::Application
-
